@@ -51,7 +51,7 @@ void loop() {
 
   input();
 
-    if (S1) {
+    if (!S1) {
       R1 = false;
     } else {
       R1 = true;
