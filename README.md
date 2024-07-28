@@ -7,6 +7,6 @@ Video Tutorial
 
 PLC ladder-style programming is done with the Arduino IDE as the IEC 611331-3 standard structured text PLC programming language. The inputs and outputs of the Arduino PLC were configured and mapped to the Outseal PLC Nano pinout. The standard PLC scan cycle was replicated to form the bare minimum sketch in the Arduino IDE with functions to configure the input/output, read the input status, execute the program instructions and write to the output pins. Basic programming functions were demonstrated with the Arduino Nano PLC produced by J R Electrokits.
 
-3. Analog Data | Arduino Sketch ⇌ PLC Ladder Programming: https://youtu.be/kOBMkHZmhNA
+2. Analog Data | Arduino Sketch ⇌ PLC Ladder Programming: https://youtu.be/kOBMkHZmhNA
 
 The bare minimum sketch for Arduino Nano PLC was updated to include analog input read and range scaling functions. The different comparison instructions of the Outseal PLC were replicated with the Arduino Sketch and demonstrated with the Arduino Nano PLC produced by J R Electrokits.
