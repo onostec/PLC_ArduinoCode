@@ -10,3 +10,7 @@ PLC ladder-style programming is done with the Arduino IDE as the IEC 611331-3 st
 2. Analog Data | Arduino Sketch ⇌ PLC Ladder Programming: https://youtu.be/kOBMkHZmhNA
 
 The bare minimum sketch for Arduino Nano PLC was updated to include analog input read and range scaling functions. The different comparison instructions of the Outseal PLC were replicated with the Arduino Sketch and demonstrated with the Arduino Nano PLC produced by J R Electrokits.
+
+3. Data Monitor | Arduino Sketch ⇌ PLC Ladder Programming: https://youtu.be/UZ7Md3Oj8wA
+
+The Arduino Nano PLC data and I/O status can be monitored in Outseal Studio when it is in online mode. The operating data of the Arduino Nano PLC can also be monitored in the Arduino IDE with the serial monitor. Using the Arduino IDE, the I2C LCD also monitors the Arduino Nano PLC operating parameters.
