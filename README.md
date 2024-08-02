@@ -1,6 +1,6 @@
 # PLC_ArduinoCode
 
-The Arduino Nano PLC is based on the open-source hardware Outseal PLC Nano, an Outseal automation technology brand. Based on the Arduino Nano Inputs/Outputs, it has 8 fixed digital optocoupler inputs, 2 analog 0–5V or 0–20mA outputs, 6 relay outputs, 2 PWM outputs, Modbus communication, the UART port, an I2C port, and an inbuilt external memory.
+The Arduino Nano PLC is based on the open-source hardware Outseal PLC Nano, an Outseal automation technology brand. Based on the Arduino Nano Inputs/Outputs, it has 8 fixed digital optocoupler inputs, 2 analog 0–5V or 0–20mA outputs, 6 relay outputs, 2 PWM outputs, Modbus communication, the UART port, an I2C port, and an inbuilt external memory. LOW-COST ARDUINO NANO PLC:https://youtu.be/6mbli4i9Tqw
 
 Video Tutorial
 1. Introduction to Arduino Sketch ⇌ PLC Ladder Programming: https://youtu.be/_FlpoLP5dmY
