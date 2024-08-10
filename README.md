@@ -15,3 +15,7 @@ The bare minimum sketch for Arduino Nano PLC was updated to include analog input
 3. Data Monitor | Arduino Sketch ⇌ PLC Ladder Programming: https://youtu.be/UZ7Md3Oj8wA
 
 The Arduino Nano PLC data and I/O status can be monitored in Outseal Studio when it is in online mode. The operating data of the Arduino Nano PLC can also be monitored in the Arduino IDE with the serial monitor. Using the Arduino IDE, the I2C LCD also monitors the Arduino Nano PLC operating parameters.
+
+#4 Timers | Arduino Sketch ⇌ PLC Ladder Programming: https://youtu.be/P3z4jwh_oJw
+
+PLC timer functions are replicated in the Arduino IDE. An Arduino Timer library was downloaded from GitHub and was compared with the Outseal Studio PLC instructions. The demonstrated Timer library functions are the Debounce Timer, Timer on Delay (TON), Timer off Delay (TOF), Pulse Timer (TP), and Flasher Timer. All demonstrations were with the Arduino Nano PLC with an I2C LCD to show the timer status and data.
