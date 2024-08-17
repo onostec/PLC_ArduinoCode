@@ -20,6 +20,6 @@ The Arduino Nano PLC data and I/O status can be monitored in Outseal Studio when
 
 PLC timer functions are replicated in the Arduino IDE. An Arduino Timer library was downloaded from GitHub and was compared with the Outseal Studio PLC instructions. The demonstrated Timer library functions are the Debounce Timer, Timer on Delay (TON), Timer off Delay (TOF), Pulse Timer (TP), and Flasher Timer. All demonstrations were with the Arduino Nano PLC with an I2C LCD to show the timer status and data.
 
-5. How to Program PLC Counters in Arduino IDE  | Arduino Sketch ⇌ PLC Ladder Programming: https://youtu.be/QTQdJcb7Fp4
+5. Counters  | Arduino Sketch ⇌ PLC Ladder Programming: https://youtu.be/QTQdJcb7Fp4
 
 PLC Counter functions are replicated in the Arduino IDE. An Arduino Counter library developed based on the simplicity of the Timer library can be downloaded from GitHub and was compared with the Outseal Studio PLC instructions. The demonstrated Counter library functions are the Up counter (CTU), Down Counter (CTD), Cyclic Counter (CTY) and the Up-Down Counter. All demonstrations were with the Arduino Nano PLC with an I2C LCD to display the Counter Parameters.
