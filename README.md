@@ -23,3 +23,7 @@ PLC timer functions are replicated in the Arduino IDE. An Arduino Timer library 
 5. Counters  | Arduino Sketch ⇌ PLC Ladder Programming: https://youtu.be/QTQdJcb7Fp4
 
 PLC Counter functions are replicated in the Arduino IDE. An Arduino Counter library developed based on the simplicity of the Timer library can be downloaded from GitHub and was compared with the Outseal Studio PLC instructions. The demonstrated Counter library functions are the Up counter (CTU), Down Counter (CTD), Cyclic Counter (CTY) and the Up-Down Counter. All demonstrations were with the Arduino Nano PLC with an I2C LCD to display the Counter Parameters.
+
+6. Arduino Nano PLC Modbus SCADA: https://youtu.be/t1qlNGgjtOA
+
+The Modbus communication protocol allows PLCs to exchange data with others and SCADA systems. The Arduino Nano PLC like the Outseal PLC nano supports the Modbus serial or RTU implementation. The video demonstrates the programming of the Arduino Nano PLC Modbus RTU slave or server with the Outseal Studio in communication with VT SCADA using the Arduino Nano USB programming cable and the Arduino IDE programming of the Modbus RTU slave or server communicating with VT SCADA using the USB-to-RS485 converter module.
