@@ -28,6 +28,6 @@ PLC Counter functions are replicated in the Arduino IDE. An Arduino Counter libr
 
 The Modbus communication protocol allows PLCs to exchange data with others and SCADA systems. The Arduino Nano PLC like the Outseal PLC nano supports the Modbus serial or RTU implementation. The video demonstrates the programming of the Arduino Nano PLC Modbus RTU slave or server with the Outseal Studio in communication with VT SCADA using the Arduino Nano USB programming cable and the Arduino IDE programming of the Modbus RTU slave or server communicating with VT SCADA using the USB-to-RS485 converter module.
 
-7 Arduino Nano PLC Controlling the EBYTE Modbus RTU: https://youtu.be/IAOaTpbjk8Y
+7. Arduino Nano PLC Controlling the EBYTE Modbus RTU: https://youtu.be/IAOaTpbjk8Y
 
 The Arduino Nano PLC is programmed as the Modbus RTU master/client to monitor and control the Ebyte Modbus RTU slave/server. The Outseal Modbus Master instructions are used in the Arduino Nano PLC to send and retrieve data from the Ebyte RTU module. The corresponding program was demonstrated with the Arduino IDE. 
