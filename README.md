@@ -30,4 +30,8 @@ The Modbus communication protocol allows PLCs to exchange data with others and S
 
 7. Arduino Nano PLC Controlling the EBYTE Modbus RTU: https://youtu.be/IAOaTpbjk8Y
 
-The Arduino Nano PLC is programmed as the Modbus RTU master/client to monitor and control the Ebyte Modbus RTU slave/server. The Outseal Modbus Master instructions are used in the Arduino Nano PLC to send and retrieve data from the Ebyte RTU module. The corresponding program was demonstrated with the Arduino IDE. 
+The Arduino Nano PLC is programmed as the Modbus RTU master/client to monitor and control the Ebyte Modbus RTU slave/server. The Outseal Modbus Master instructions are used in the Arduino Nano PLC to send and retrieve data from the Ebyte RTU module. The corresponding program was demonstrated with the Arduino IDE.
+
+8. Industrial 4 20mA Modbus 7 Segment Display: https://youtu.be/uo_Wz4xbz80
+
+The Arduino Nano PLC is programmed as the Modbus RTU master/client to read the analog 4-20 mA input and display the values on Modbus RTU slave 4-digit 7-Segment displays.  The raw analog input was scaled to between 4 - 20 mA. The Outseal Modbus Master instruction MF6 was used in the Arduino Nano PLC to send the data to the Modbus RTU 4-digit 7-segment module. The corresponding program was demonstrated with the Arduino IDE. 
